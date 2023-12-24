@@ -1,0 +1,7 @@
+click
+Pillow
+pyfiglet
+colorama
+pdf2image
+pdfplumber
+python-docx
