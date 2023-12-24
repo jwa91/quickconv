@@ -13,5 +13,3 @@ pip install -r requirements.txt
 ## Gebruik
 Start QuickConv via de command line en volg de prompts om bestanden te converteren.
 
-## Licentie
-QuickConv is uitgebracht onder de MIT-licentie. Zie het LICENSE-bestand voor meer informatie.
